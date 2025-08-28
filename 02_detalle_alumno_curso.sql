@@ -1,5 +1,4 @@
 -- 02_detalle_alumno_curso.sql
--- Ejecuta después de crear alumnos y cursos
 
 CREATE TABLE IF NOT EXISTS detalle_alumno_curso (
   id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
