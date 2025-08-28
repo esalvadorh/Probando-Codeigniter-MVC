@@ -1,6 +1,4 @@
 <?php
-// Añade estas rutas a app/Config/Routes.php
-
 $routes->get('/', 'Alumnos::index');
 
 // ALUMNOS
