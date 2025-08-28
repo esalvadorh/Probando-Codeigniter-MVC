@@ -1,5 +1,6 @@
 <?php namespace App\Controllers;
 
+
 use App\Models\AlumnoModel;
 use App\Models\CursoModel;
 use App\Models\AlumnoCursoModel;
